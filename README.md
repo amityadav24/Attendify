@@ -61,5 +61,6 @@ Open `http://localhost:5173` in your browser.
 - Add PDF report generation and email notifications.
 - Deploy to a production environment.
 
+## Made using #AntiGravity #Test
 ---
 *This README reflects the current state of the project as of November 2025.*
